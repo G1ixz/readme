@@ -1,6 +1,6 @@
-### Hi there, I'm legend-js! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=legend-js-dev" alt="yus" /> </p>
-<p align='center'> <a href="https://discord.gg/5PvBYxPgQS">
+### Hi there, I'm G1ixz! https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=g1ixz" alt="yus" /> </p>
+<p align='center'> <a href="https://discord.gg/chilling">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
