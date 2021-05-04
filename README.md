@@ -32,7 +32,7 @@ I am a passionate self-taught programmer from USA and my hobby is to code & play
  
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=g1ixz&show_icons=true&theme=dark&line_height=21%22%20alt=%22g1ixz%27%20github%20stats%22"/>
+![G1ixz's github stats](https://github-readme-stats.vercel.app/api?username=G1ixz&show_icons=true&theme=radical)
  
  
 
