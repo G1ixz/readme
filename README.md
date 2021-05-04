@@ -1,4 +1,4 @@
-### Hi there, I'm G1ixz! https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif
+### Hi there, I'm G1ixz! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=g1ixz" alt="yus" /> </p>
 <p align='center'> <a href="https://discord.gg/chilling">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -14,12 +14,12 @@
  
 <br />
 
-### Hey i'm legend-js Gald to see you here! &nbsp;
+### Hey i'm G1ixz Gald to see you here! &nbsp;
 
-I am a passionate self-taught programmer from Nepal and my hobby is to code.
- - 🌱 I’m currently learning Python
-- 💬 Ask me about anything [here](https://discord.gg/5PvBYxPgQS)
-- 🥅 2021 Goals: make some awesome Discord Bots
+I am a passionate self-taught programmer from USA and my hobby is to code & play sports.
+- 🎂 I’m currently learning Javascript
+- 🍣 Ask me about anything [here](https://discord.gg/chilling)
+- 🍉 2021 Goals: make some awesome Discord Bots & help others
 
 **Languages and Tools:** &nbsp;
 <p align="center">
@@ -32,8 +32,8 @@ I am a passionate self-taught programmer from Nepal and my hobby is to code.
  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend-js-dev&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=legend-js-dev&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1ixz&show_icons=true&layout=compact&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=g1ixz&show_icons=true&theme=dark&line_height=21%22%20alt=%22g1ixz%27%20github%20stats%22"/>
  
  
 
