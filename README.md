@@ -36,4 +36,4 @@ I am a passionate self-taught programmer from USA and my hobby is to code & play
  
  
 
-#### have a great day/night.
+#### You can dm my on discord at </Boogi.mp4>#0001
