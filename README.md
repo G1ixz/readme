@@ -32,8 +32,7 @@ I am a passionate self-taught programmer from USA and my hobby is to code & play
  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1ixz&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=g1ixz&show_icons=true&theme=dark&line_height=21%22%20alt=%22g1ixz%27%20github%20stats%22"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=g1ixz&show_icons=true&theme=dark&line_height=21%22%20alt=%22g1ixz%27%20github%20stats%22"/>
  
  
 
